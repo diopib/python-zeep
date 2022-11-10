@@ -51,7 +51,7 @@ with open("README.rst") as fh:
 
 setup(
     name="zeep",
-    version="ibrahim-4.0.0b1",
+    version="dev",
     description="A modern/fast Python SOAP client based on lxml / requests",
     long_description=long_description,
     author="Michael van Tellingen",
